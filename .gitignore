@@ -1,0 +1,14 @@
+*.mp4
+*.mp3
+*.m4a
+*.ogg
+*.srt
+*.aac
+*.avi
+*.amr
+*.wav
+!chi.mp4
+!chi.srt
+!chi.ogg
+/[[]document]/
+/nbproject/private/
